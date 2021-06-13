@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandro
-- 👀 I’m interested in machine learning, scientific computing, robotics and astrophysics.
+- 👀 I’m interested in machine learning, scientific computing, robotics, and astrophysics.
 - 🌱 I’m currently learning simulation sciences.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
